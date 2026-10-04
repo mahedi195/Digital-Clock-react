@@ -1,0 +1,33 @@
+body {
+    background-image: url(/src/assets/wallpaper.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+
+p {
+    color: white;
+    font-size: 7rem;
+    font-weight: bold;
+    font-family: monospace;
+    /* min-height: 100vh; */
+    backdrop-filter: blur(15px);
+    padding: 0px 35px;
+}
+
+.clock {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
