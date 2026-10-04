@@ -1,6 +1,6 @@
 **Digital Clock using React**
 
-**Vercel Deployment:** https://digital-clock-react-k8pj.vercel.app/
+**Vercel Deployment:** https://digital-clock-react-qba3.vercel.app/
 
 **Features:**
 - 12 hour format
