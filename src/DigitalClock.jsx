@@ -31,7 +31,7 @@ function Digital() {
         const seconds = curTime.getSeconds();
 
         hours=hours%12==0?12:hours;
-        const am_pm=hours<=12?'AM':'PM';
+        const am_pm=hours<=12?'PM':'AM';
 
         return `${prependZero(hours)}:${prependZero(minutes)}:${prependZero(seconds)} ${am_pm}`;
 
